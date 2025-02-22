@@ -1,2 +1,2 @@
 このフォルダにはコンパイルファイルが入っています
-This folder contains compilation files
+This folder contains compilation files.
