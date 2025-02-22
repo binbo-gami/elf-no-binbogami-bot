@@ -12,3 +12,8 @@ class CalculatorCog(commands.Cog):
             await interaction.response.send_message(f'結果: {result}')
         except Exception:
             await interaction.response.send_message('計算式が無効です。')
+
+# -----------------------------------------------------------------------------
+# Copyright (c) 2025 みらい@milie_usotsuki
+#https://x.com/milie_usotsuki
+# -----------------------------------------------------------------------------
