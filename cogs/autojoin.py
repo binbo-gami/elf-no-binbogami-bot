@@ -37,3 +37,8 @@ class AutoJoinVoice(commands.Cog):
 
 def setup(bot, voice_cog):
     bot.add_cog(AutoJoinVoice(bot, voice_cog))
+
+# -----------------------------------------------------------------------------
+# Copyright (c) 2025 みらい@milie_usotsuki
+#https://x.com/milie_usotsuki
+# -----------------------------------------------------------------------------
