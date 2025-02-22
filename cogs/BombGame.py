@@ -114,3 +114,8 @@ class BombGame(commands.Cog):
 async def setup(bot):
     """BotにCogを追加"""
     await bot.add_cog(BombGame(bot))
+
+# -----------------------------------------------------------------------------
+# Copyright (c) 2025 みらい@milie_usotsuki
+#https://x.com/milie_usotsuki
+# -----------------------------------------------------------------------------
